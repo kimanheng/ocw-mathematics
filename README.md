@@ -18,7 +18,7 @@
   <li><a href="#other">Other</li>
 </ul>
 <h1>Preface</h1>
-<p>The <b>Undergraduate Mathematics Pathway</b> is a course in mathematics using online resources from <a href="https://ocw.mit.edu/">MIT OpenCourseWare</a> that follows the requirement for the <b>Bachelor of Science in Mathematics</b> degree. The pathway is structured to have core mathematics courses, advanced mathematics courses, and other notable math-related courses.</p>
+<p>The <b>Undergraduate Mathematics Pathway</b> is a course in mathematics using online resources from <a href="https://ocw.mit.edu/">MIT OpenCourseWare</a>. The pathway is structured to have core mathematics courses, advanced mathematics courses, and other notable math-related courses.</p>
 
 <h1>Core Mathematics</h1>
 <table>
